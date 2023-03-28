@@ -1,0 +1,34 @@
+{
+    "name": "space_input",
+    "maps": [
+        {
+            "name": "player",
+            "id": "48023868-e79c-4258-82e1-7d1348c24688",
+            "actions": [
+                {
+                    "name": "hide_show",
+                    "type": "Button",
+                    "id": "8f6eb942-9754-4e47-961e-034fe844d665",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "001ba4c7-4f77-4184-8720-7049bdad2571",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "hide_show",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
